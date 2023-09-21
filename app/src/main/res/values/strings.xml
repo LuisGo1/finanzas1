@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">finanzas1</string>
+    <string name="guardar">Guardar</string>
+    <string name="Monto">Introduce monto</string>
+    <string name="text_label_1">Transacciones</string>
+    <string name="text_label_2">Informes</string>
+    <string name="text_label_3">Categorias</string>
+</resources>
